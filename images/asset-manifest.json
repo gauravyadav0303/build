@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e37463c.css",
+    "main.js": "/static/js/main.53c2f855.js",
+    "static/js/787.fc740036.chunk.js": "/static/js/787.fc740036.chunk.js",
+    "static/media/frame2.png": "/static/media/frame2.0ee32bc05f08b9f9779a.png",
+    "static/media/frame1.png": "/static/media/frame1.54861dab597d00408961.png",
+    "static/media/fulliphone.jpg": "/static/media/fulliphone.86711df495a5ea631b93.jpg",
+    "static/media/phone.jpg": "/static/media/phone.34a1abd4e45e912cf456.jpg",
+    "static/media/halfiphone.png": "/static/media/halfiphone.4f56ef93e56f6ee9bedf.png",
+    "static/media/pricecard.png": "/static/media/pricecard.030d4fffa9192dc94669.png",
+    "static/media/mask.png": "/static/media/mask.3850a169fb787a44d97d.png",
+    "static/media/review.png": "/static/media/review.4a56c4fba3efd027e4fe.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.6e37463c.css.map": "/static/css/main.6e37463c.css.map",
+    "main.53c2f855.js.map": "/static/js/main.53c2f855.js.map",
+    "787.fc740036.chunk.js.map": "/static/js/787.fc740036.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e37463c.css",
+    "static/js/main.53c2f855.js"
+  ]
+}
